@@ -1,0 +1,12 @@
+/.vs
+/packages
+/ABP.SPA.Application/bin
+/ABP.SPA.Application/obj
+/ABP.SPA.Core/obj
+/ABP.SPA.Core/bin
+/ABP.SPA.EntityFramework/obj
+/ABP.SPA.EntityFramework/bin
+/ABP.SPA.Web/obj
+/ABP.SPA.Web/bin
+/ABP.SPA.WebApi/obj
+/ABP.SPA.WebApi/bin
